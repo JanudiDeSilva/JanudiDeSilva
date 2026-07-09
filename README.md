@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python, SQL, React, Node.js, and Machine Learning**
 - 📫 Reach me at **janudidesilva0@gmail.com**
 
-- - ⚡ Fun fact: If there’s a hill to climb and a friendly animal nearby, I’m already happy!
+- ⚡ Fun fact: If there’s a hill to climb and a friendly animal nearby, I’m already happy!
 
 ## 🤝 Connect with Me
 

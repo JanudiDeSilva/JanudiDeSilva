@@ -11,7 +11,7 @@
 - 🌱 Currently exploring Data Science, AI/ML, and the MERN Stack
 - 🚀 Passionate about building real-world solutions with code
 - 💬 Ask me about **Python, SQL, React, Node.js, and Machine Learning**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **janudidesilva0@gmail.com**
 
 ## 🤝 Connect with Me
 
@@ -20,7 +20,6 @@
   <a href="https://github.com/JanudiDeSilva"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
-- 📫 Reach me at **<a href="mailto:janudidesilva0@gmail.com">janudidesilva0@gmail.com</a>**
 
 ## 🛠️ Languages & Tools
 

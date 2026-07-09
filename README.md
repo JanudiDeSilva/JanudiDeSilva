@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Undergraduate | Full-Stack Developer | AI Enthusiast from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Undergraduate;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me

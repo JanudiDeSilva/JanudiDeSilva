@@ -38,6 +38,6 @@
 
 ## 📈 Contribution Graph
 
-[![Janudi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Janudi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_JanudiDeSilva&theme=tokyo-night)](https://github.com/JanudiDeSilva)
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=JanudiDeSilva&color=blue)

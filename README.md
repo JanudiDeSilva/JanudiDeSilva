@@ -31,12 +31,12 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=JanudiDeSilva&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JanudiDeSilva&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanudiDeSilva&layout=compact&theme=tokyonight)
 ## 📈 Contribution Graph
 
 [![Janudi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JanudiDeSilva&theme=tokyo-night)](https://github.com/JanudiDeSilva)

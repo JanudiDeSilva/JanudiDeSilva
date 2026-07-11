@@ -92,4 +92,3 @@ Predicts smartphone battery drain using Python, data preprocessing, feature engi
 
 [![Janudi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JanudiDeSilva&theme=tokyo-night)](https://github.com/JanudiDeSilva)
 
-![](https://komarev.com/ghpvc/?username=JanudiDeSilva&color=blue)

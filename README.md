@@ -40,15 +40,16 @@
 
 
 ## 📌 Featured Projects
-## 📌 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Smart Camping Management System
 
-MERN-based camping management platform with authentication, booking, guides and payment modules.
+**🌐 Web Application**
+
+MERN-based camping management platform with authentication, campsite booking, guide management, payment integration, and an admin dashboard.
 
 <a href="https://github.com/tarinievinka/Smart_Camping_Management_System">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -56,11 +57,29 @@ MERN-based camping management platform with authentication, booking, guides and 
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+### 📱 WMT Camping Management System
+
+**📲 Mobile Application**
+
+A smart camping management mobile application with campsite booking, user management, and an intuitive user experience.
+
+<a href="https://github.com/tarinievinka/WMT-Camping-Management-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 ### 🔋 Smartphone Battery Drain Prediction
 
-Machine Learning project for predicting smartphone battery usage using Python.
+**🤖 Machine Learning Project**
+
+Predicts smartphone battery drain using Python, data preprocessing, feature engineering, and machine learning models.
 
 <a href="https://github.com/JanudiDeSilva/Smartphone-Battery-Drain-Prediction">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">

@@ -25,8 +25,8 @@
 
 ## 🛠️ Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mongodb,mysql,git,postman,tensorflow" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,git,github,postman,tensorflow,tailwind,html,css,c,cpp" />
 </p>
 
 ## 📊 GitHub Stats

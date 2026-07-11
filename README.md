@@ -37,6 +37,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JanudiDeSilva&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanudiDeSilva&layout=compact&theme=tokyonight)
+## 📌 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JanudiDeSilva&repo=REPOSITORY_NAME&theme=tokyonight)](https://github.com/JanudiDeSilva/REPOSITORY_NAME)
+
 ## 📈 Contribution Graph
 
 [![Janudi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JanudiDeSilva&theme=tokyo-night)](https://github.com/JanudiDeSilva)

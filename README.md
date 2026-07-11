@@ -41,11 +41,21 @@
 
 ## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JanudiDeSilva&repo=Smart_Camping_Management_System&theme=tokyonight)](https://github.com/JanudiDeSilva/Smart_Camping_Management_System)
+<p align="center">
+  <a href="https://github.com/tarinievinka/Smart_Camping_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarinievinka&repo=Smart_Camping_Management_System&theme=tokyonight&cache_seconds=1800" />
+  </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JanudiDeSilva&repo=WMT-Camping-Management-System&theme=tokyonight)](https://github.com/JanudiDeSilva/WMT-Camping-Management-System)
+  <a href="https://github.com/tarinievinka/WMT-Camping-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarinievinka&repo=WMT-Camping-Management-System&theme=tokyonight&cache_seconds=1800" />
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JanudiDeSilva&repo=Smartphone-Battery-Drain-Prediction&theme=tokyonight)](https://github.com/JanudiDeSilva/Smartphone-Battery-Drain-Prediction)
+<p align="center">
+  <a href="https://github.com/JanudiDeSilva/Smartphone-Battery-Drain-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanudiDeSilva&repo=Smartphone-Battery-Drain-Prediction&theme=tokyonight&cache_seconds=1800" />
+  </a>
+</p>
 
 ## 📈 Contribution Graph
 

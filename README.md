@@ -40,23 +40,35 @@
 
 
 ## 📌 Featured Projects
+## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/tarinievinka/Smart_Camping_Management_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarinievinka&repo=Smart_Camping_Management_System&theme=tokyonight&cache_seconds=1800" />
-  </a>
+<table>
+<tr>
+<td width="50%">
 
-  <a href="https://github.com/tarinievinka/WMT-Camping-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarinievinka&repo=WMT-Camping-Management-System&theme=tokyonight&cache_seconds=1800" />
-  </a>
-</p>
+### 🚀 Smart Camping Management System
 
-<p align="center">
-  <a href="https://github.com/JanudiDeSilva/Smartphone-Battery-Drain-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanudiDeSilva&repo=Smartphone-Battery-Drain-Prediction&theme=tokyonight&cache_seconds=1800" />
-  </a>
-</p>
+MERN-based camping management platform with authentication, booking, guides and payment modules.
 
+<a href="https://github.com/tarinievinka/Smart_Camping_Management_System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔋 Smartphone Battery Drain Prediction
+
+Machine Learning project for predicting smartphone battery usage using Python.
+
+<a href="https://github.com/JanudiDeSilva/Smartphone-Battery-Drain-Prediction">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 ## 📈 Contribution Graph
 
 [![Janudi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JanudiDeSilva&theme=tokyo-night)](https://github.com/JanudiDeSilva)
